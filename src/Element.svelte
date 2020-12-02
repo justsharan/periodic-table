@@ -5,16 +5,16 @@
   export let atomic_mass
 </script>
 
-<main id={name.toLowerCase()}>
+<section id={name.toLowerCase()}>
   <div id="atomic">{atomic}</div>
   <div id="symbol">{symbol}</div>
   <div id="name">{name}</div>
   <div id="mass">{Number.parseFloat(atomic_mass).toPrecision(3)}</div>
-</main>
+</section>
 
 <style>
 
-  main {
+  section {
     width: 5vw;
     height: 5vw;
     padding: 2px;
