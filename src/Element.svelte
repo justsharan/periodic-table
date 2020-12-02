@@ -17,7 +17,7 @@
     height: 5vw;
     padding: 2px;
 
-    border: 1px solid;
+    border: 0.5px solid;
     border-collapse: collapse;
     overflow: hidden;
 
@@ -40,6 +40,31 @@
   #name {
     font-size: 0.8vw;
     text-align: center;
+  }
+
+  #helium {
+    grid-column-start: -2;
+  }
+
+  #boron, #aluminium {
+    grid-column-start: 13;
+  }
+
+  #lanthanum, #actinium {
+    grid-column-start: 3;
+  }
+
+  #empty {
+    border: none;
+  }
+
+  #empty > div, #space > div {
+    color: white;
+  }
+
+  #space {
+    grid-column-start: -2;
+    border: none;
   }
 
 </style>

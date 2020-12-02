@@ -1,23 +1,17 @@
 <script>
   import Element from './Element.svelte'
-
-  const Hydrogen = {
-    atomic: 1,
-    symbol: "H",
-    name: "Hydrogen"
-  }
-
-  const Helium = {
-    atomic: 2,
-    symbol: "He",
-    name: "Helium"
-  }
+  const data = fetch('assets/data.json').then(d => d.json())
 </script>
 
 <main>
 
-    <Element {...Hydrogen} />
-    <Element {...Helium} />
+  {#await data}
+    <p>Loading</p>
+  {:then elements}
+    {#each elements as el}
+      <Element {...el} />
+    {/each}
+  {/await}
 
 </main>
 
