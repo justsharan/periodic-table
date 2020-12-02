@@ -13,7 +13,8 @@
     "ionization_energies": [
       1312
     ],
-    "atomic": 1
+    "atomic": 1,
+    "type": "nonmetal"
   },
   {
     "name": "Helium",
@@ -30,7 +31,8 @@
       2372.3,
       5250.5
     ],
-    "atomic": 2
+    "atomic": 2,
+    "type": "noble-gas"
   },
   {
     "name": "Lithium",
@@ -49,7 +51,8 @@
       7298.1,
       11815
     ],
-    "atomic": 3
+    "atomic": 3,
+    "type": "alkali"
   },
   {
     "name": "Beryllium",
@@ -69,7 +72,8 @@
       14848.7,
       21006.6
     ],
-    "atomic": 4
+    "atomic": 4,
+    "type": "alkaline-earth"
   },
   {
     "name": "Boron",
@@ -90,7 +94,8 @@
       25025.8,
       32826.7
     ],
-    "atomic": 5
+    "atomic": 5,
+    "type": "metalloid"
   },
   {
     "name": "Carbon",
@@ -112,7 +117,8 @@
       37831,
       47277
     ],
-    "atomic": 6
+    "atomic": 6,
+    "type": "nonmetal"
   },
   {
     "name": "Nitrogen",
@@ -135,7 +141,8 @@
       53266.6,
       64360
     ],
-    "atomic": 7
+    "atomic": 7,
+    "type": "nonmetal"
   },
   {
     "name": "Oxygen",
@@ -159,7 +166,8 @@
       71330,
       84078
     ],
-    "atomic": 8
+    "atomic": 8,
+    "type": "nonmetal"
   },
   {
     "name": "Fluorine",
@@ -184,7 +192,8 @@
       92038.1,
       106434.3
     ],
-    "atomic": 9
+    "atomic": 9,
+    "type": "nonmetal"
   },
   {
     "name": "Neon",
@@ -210,7 +219,8 @@
       115379.5,
       131432
     ],
-    "atomic": 10
+    "atomic": 10,
+    "type": "noble-gas"
   },
   {
     "name": "Sodium",
@@ -238,7 +248,8 @@
       141362,
       159076
     ],
-    "atomic": 11
+    "atomic": 11,
+    "type": "alkali"
   },
   {
     "name": "Magnesium",
@@ -267,7 +278,8 @@
       169988,
       189368
     ],
-    "atomic": 12
+    "atomic": 12,
+    "type": "alkaline-earth"
   },
   {
     "name": "Aluminium",
@@ -297,7 +309,8 @@
       201266,
       222316
     ],
-    "atomic": 13
+    "atomic": 13,
+    "type": "post-transition"
   },
   {
     "name": "Silicon",
@@ -328,7 +341,8 @@
       235196,
       257923
     ],
-    "atomic": 14
+    "atomic": 14,
+    "type": "metalloid"
   },
   {
     "name": "Phosphorus",
@@ -360,7 +374,8 @@
       271791,
       296195
     ],
-    "atomic": 15
+    "atomic": 15,
+    "type": "nonmetal"
   },
   {
     "name": "Sulfur",
@@ -393,7 +408,8 @@
       311048,
       337138
     ],
-    "atomic": 16
+    "atomic": 16,
+    "type": "nonmetal"
   },
   {
     "name": "Chlorine",
@@ -427,7 +443,8 @@
       352994,
       380760
     ],
-    "atomic": 17
+    "atomic": 17,
+    "type": "nonmetal"
   },
   {
     "name": "Argon",
@@ -462,7 +479,8 @@
       397605,
       427066
     ],
-    "atomic": 18
+    "atomic": 18,
+    "type": "noble-gas"
   },
   {
     "name": "Potassium",
@@ -499,7 +517,8 @@
       444880,
       476063
     ],
-    "atomic": 19
+    "atomic": 19,
+    "type": "alkali"
   },
   {
     "name": "Calcium",
@@ -537,7 +556,8 @@
       494850,
       527762
     ],
-    "atomic": 20
+    "atomic": 20,
+    "type": "alkaline-earth"
   },
   {
     "name": "Scandium",
@@ -576,7 +596,8 @@
       547530,
       582163
     ],
-    "atomic": 21
+    "atomic": 21,
+    "type": "transition"
   },
   {
     "name": "Titanium",
@@ -616,7 +637,8 @@
       602930,
       639294
     ],
-    "atomic": 22
+    "atomic": 22,
+    "type": "transition"
   },
   {
     "name": "Vanadium",
@@ -657,7 +679,8 @@
       661050,
       699144
     ],
-    "atomic": 23
+    "atomic": 23,
+    "type": "transition"
   },
   {
     "name": "Chromium",
@@ -699,7 +722,8 @@
       721870,
       761733
     ],
-    "atomic": 24
+    "atomic": 24,
+    "type": "transition"
   },
   {
     "name": "Manganese",
@@ -742,7 +766,8 @@
       785450,
       827067
     ],
-    "atomic": 25
+    "atomic": 25,
+    "type": "transition"
   },
   {
     "name": "Iron",
@@ -786,7 +811,8 @@
       851800,
       895161
     ],
-    "atomic": 26
+    "atomic": 26,
+    "type": "transition"
   },
   {
     "name": "Cobalt",
@@ -831,7 +857,8 @@
       920870,
       966023
     ],
-    "atomic": 27
+    "atomic": 27,
+    "type": "transition"
   },
   {
     "name": "Nickel",
@@ -877,7 +904,8 @@
       992718,
       1039668
     ],
-    "atomic": 28
+    "atomic": 28,
+    "type": "transition"
   },
   {
     "name": "Copper",
@@ -924,7 +952,8 @@
       1067358,
       1116105
     ],
-    "atomic": 29
+    "atomic": 29,
+    "type": "transition"
   },
   {
     "name": "Zinc",
@@ -963,7 +992,8 @@
       71200,
       179100
     ],
-    "atomic": 30
+    "atomic": 30,
+    "type": "transition"
   },
   {
     "name": "Gallium",
@@ -985,7 +1015,8 @@
       2963,
       6180
     ],
-    "atomic": 31
+    "atomic": 31,
+    "type": "post-transition"
   },
   {
     "name": "Germanium",
@@ -1008,7 +1039,8 @@
       4411,
       9020
     ],
-    "atomic": 32
+    "atomic": 32,
+    "type": "metalloid"
   },
   {
     "name": "Arsenic",
@@ -1032,7 +1064,8 @@
       6043,
       12310
     ],
-    "atomic": 33
+    "atomic": 33,
+    "type": "metalloid"
   },
   {
     "name": "Selenium",
@@ -1057,7 +1090,8 @@
       7880,
       14990
     ],
-    "atomic": 34
+    "atomic": 34,
+    "type": "nonmetal"
   },
   {
     "name": "Bromine",
@@ -1083,7 +1117,8 @@
       9940,
       18600
     ],
-    "atomic": 35
+    "atomic": 35,
+    "type": "nonmetal"
   },
   {
     "name": "Krypton",
@@ -1131,7 +1166,8 @@
       311400,
       326200
     ],
-    "atomic": 36
+    "atomic": 36,
+    "type": "noble-gas"
   },
   {
     "name": "Rubidium",
@@ -1160,7 +1196,8 @@
       14500,
       26740
     ],
-    "atomic": 37
+    "atomic": 37,
+    "type": "alkali"
   },
   {
     "name": "Strontium",
@@ -1190,7 +1227,8 @@
       17100,
       31270
     ],
-    "atomic": 38
+    "atomic": 38,
+    "type": "alkaline-earth"
   },
   {
     "name": "Yttrium",
@@ -1221,7 +1259,8 @@
       19900,
       36090
     ],
-    "atomic": 39
+    "atomic": 39,
+    "type": "transition"
   },
   {
     "name": "Zirconium",
@@ -1246,7 +1285,8 @@
       7752,
       9500
     ],
-    "atomic": 40
+    "atomic": 40,
+    "type": "transition"
   },
   {
     "name": "Niobium",
@@ -1272,7 +1312,8 @@
       9847,
       12100
     ],
-    "atomic": 41
+    "atomic": 41,
+    "type": "transition"
   },
   {
     "name": "Molybdenum",
@@ -1321,7 +1362,8 @@
       148100,
       154500
     ],
-    "atomic": 42
+    "atomic": 42,
+    "type": "transition"
   },
   {
     "name": "Technetium",
@@ -1343,7 +1385,8 @@
       1470,
       2850
     ],
-    "atomic": 43
+    "atomic": 43,
+    "type": "transition"
   },
   {
     "name": "Ruthenium",
@@ -1365,7 +1408,8 @@
       1620,
       2747
     ],
-    "atomic": 44
+    "atomic": 44,
+    "type": "transition"
   },
   {
     "name": "Rhodium",
@@ -1387,7 +1431,8 @@
       1740,
       2997
     ],
-    "atomic": 45
+    "atomic": 45,
+    "type": "transition"
   },
   {
     "name": "Palladium",
@@ -1408,7 +1453,8 @@
       1870,
       3177
     ],
-    "atomic": 46
+    "atomic": 46,
+    "type": "transition"
   },
   {
     "name": "Silver",
@@ -1430,7 +1476,8 @@
       2070,
       3361
     ],
-    "atomic": 47
+    "atomic": 47,
+    "type": "transition"
   },
   {
     "name": "Cadmium",
@@ -1452,7 +1499,8 @@
       1631.4,
       3616
     ],
-    "atomic": 48
+    "atomic": 48,
+    "type": "transition"
   },
   {
     "name": "Indium",
@@ -1475,7 +1523,8 @@
       2704,
       5210
     ],
-    "atomic": 49
+    "atomic": 49,
+    "type": "post-transition"
   },
   {
     "name": "Tin",
@@ -1499,7 +1548,8 @@
       3930.3,
       7456
     ],
-    "atomic": 50
+    "atomic": 50,
+    "type": "post-transition"
   },
   {
     "name": "Antimony",
@@ -1524,7 +1574,8 @@
       5400,
       10400
     ],
-    "atomic": 51
+    "atomic": 51,
+    "type": "metalloid"
   },
   {
     "name": "Tellurium",
@@ -1550,7 +1601,8 @@
       6820,
       13200
     ],
-    "atomic": 52
+    "atomic": 52,
+    "type": "metalloid"
   },
   {
     "name": "Iodine",
@@ -1572,7 +1624,8 @@
       1845.9,
       3180
     ],
-    "atomic": 53
+    "atomic": 53,
+    "type": "nonmetal"
   },
   {
     "name": "Xenon",
@@ -1594,7 +1647,8 @@
       2046.4,
       3099.4
     ],
-    "atomic": 54
+    "atomic": 54,
+    "type": "noble-gas"
   },
   {
     "name": "Cesium",
@@ -1617,7 +1671,8 @@
       2234.3,
       3400
     ],
-    "atomic": 55
+    "atomic": 55,
+    "type": "alkali"
   },
   {
     "name": "Barium",
@@ -1640,12 +1695,14 @@
       965.2,
       3600
     ],
-    "atomic": 56
+    "atomic": 56,
+    "type": "alkaline-earth"
   },
   {
     "name": "empty",
     "atomic": "",
-    "symbol": ""
+    "symbol": "",
+    "type": null
   },
   {
     "name": "Hafnium",
@@ -1669,7 +1726,8 @@
       2250,
       3216
     ],
-    "atomic": 72
+    "atomic": 72,
+    "type": "transition"
   },
   {
     "name": "Tantalum",
@@ -1691,7 +1749,8 @@
       761,
       1500
     ],
-    "atomic": 73
+    "atomic": 73,
+    "type": "transition"
   },
   {
     "name": "Tungsten",
@@ -1713,7 +1772,8 @@
       770,
       1700
     ],
-    "atomic": 74
+    "atomic": 74,
+    "type": "transition"
   },
   {
     "name": "Rhenium",
@@ -1737,7 +1797,8 @@
       2510,
       3640
     ],
-    "atomic": 75
+    "atomic": 75,
+    "type": "transition"
   },
   {
     "name": "Osmium",
@@ -1759,7 +1820,8 @@
       840,
       1600
     ],
-    "atomic": 76
+    "atomic": 76,
+    "type": "transition"
   },
   {
     "name": "Iridium",
@@ -1781,7 +1843,8 @@
       880,
       1600
     ],
-    "atomic": 77
+    "atomic": 77,
+    "type": "transition"
   },
   {
     "name": "Platinum",
@@ -1803,7 +1866,8 @@
       870,
       1791
     ],
-    "atomic": 78
+    "atomic": 78,
+    "type": "transition"
   },
   {
     "name": "Gold",
@@ -1825,7 +1889,8 @@
       890.1,
       1980
     ],
-    "atomic": 79
+    "atomic": 79,
+    "type": "transition"
   },
   {
     "name": "Mercury",
@@ -1848,7 +1913,8 @@
       1810,
       3300
     ],
-    "atomic": 80
+    "atomic": 80,
+    "type": "transition"
   },
   {
     "name": "Thallium",
@@ -1871,7 +1937,8 @@
       1971,
       2878
     ],
-    "atomic": 81
+    "atomic": 81,
+    "type": "post-transition"
   },
   {
     "name": "Lead",
@@ -1896,7 +1963,8 @@
       4083,
       6640
     ],
-    "atomic": 82
+    "atomic": 82,
+    "type": "post-transition"
   },
   {
     "name": "Bismuth",
@@ -1922,7 +1990,8 @@
       5400,
       8520
     ],
-    "atomic": 83
+    "atomic": 83,
+    "type": "post-transition"
   },
   {
     "name": "Polonium",
@@ -1943,7 +2012,8 @@
     "ionization_energies": [
       812.1
     ],
-    "atomic": 84
+    "atomic": 84,
+    "type": "post-transition"
   },
   {
     "name": "Astatine",
@@ -1964,7 +2034,8 @@
     "ionization_energies": [
       899.003
     ],
-    "atomic": 85
+    "atomic": 85,
+    "type": "nonmetal"
   },
   {
     "name": "Radon",
@@ -1985,7 +2056,8 @@
     "ionization_energies": [
       1037
     ],
-    "atomic": 86
+    "atomic": 86,
+    "type": "noble-gas"
   },
   {
     "name": "Francium",
@@ -2007,7 +2079,8 @@
     "ionization_energies": [
       380
     ],
-    "atomic": 87
+    "atomic": 87,
+    "type": "alkali"
   },
   {
     "name": "Radium",
@@ -2030,12 +2103,14 @@
       509.3,
       979
     ],
-    "atomic": 88
+    "atomic": 88,
+    "type": "alkaline-earth"
   },
   {
     "name": "empty",
     "atomic": "",
-    "symbol": ""
+    "symbol": "",
+    "type": null
   },
   {
     "name": "Rutherfordium",
@@ -2057,7 +2132,8 @@
     "ionization_energies": [
       580
     ],
-    "atomic": 104
+    "atomic": 104,
+    "type": "transition"
   },
   {
     "name": "Dubnium",
@@ -2077,7 +2153,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 105
+    "atomic": 105,
+    "type": "transition"
   },
   {
     "name": "Seaborgium",
@@ -2097,7 +2174,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 106
+    "atomic": 106,
+    "type": "transition"
   },
   {
     "name": "Bohrium",
@@ -2117,7 +2195,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 107
+    "atomic": 107,
+    "type": "transition"
   },
   {
     "name": "Hassium",
@@ -2137,7 +2216,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 108
+    "atomic": 108,
+    "type": "transition"
   },
   {
     "name": "Meitnerium",
@@ -2157,7 +2237,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 109
+    "atomic": 109,
+    "type": "transition"
   },
   {
     "name": "Darmstadtium",
@@ -2177,7 +2258,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 110
+    "atomic": 110,
+    "type": "transition"
   },
   {
     "name": "Roentgenium",
@@ -2197,7 +2279,8 @@
     "electron_affinity": 151,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 111
+    "atomic": 111,
+    "type": "transition"
   },
   {
     "name": "Copernicium",
@@ -2217,7 +2300,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 112
+    "atomic": 112,
+    "type": "transition"
   },
   {
     "name": "Nihonium",
@@ -2237,7 +2321,8 @@
     "electron_affinity": 66.6,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 113
+    "atomic": 113,
+    "type": "post-transition"
   },
   {
     "name": "Flerovium",
@@ -2257,7 +2342,8 @@
     "electron_affinity": null,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 114
+    "atomic": 114,
+    "type": "post-transition"
   },
   {
     "name": "Moscovium",
@@ -2277,7 +2363,8 @@
     "electron_affinity": 35.3,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 115
+    "atomic": 115,
+    "type": "post-transition"
   },
   {
     "name": "Livermorium",
@@ -2289,7 +2376,6 @@
       8,
       18,
       32,
-      32,
       18,
       6
     ],
@@ -2297,7 +2383,8 @@
     "electron_affinity": 74.9,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 116
+    "atomic": 116,
+    "type": "post-transition"
   },
   {
     "name": "Tennessine",
@@ -2317,7 +2404,8 @@
     "electron_affinity": 165.9,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 117
+    "atomic": 117,
+    "type": "nonmetal"
   },
   {
     "name": "Oganesson",
@@ -2337,12 +2425,14 @@
     "electron_affinity": 5.40318,
     "electronegativity_pauling": null,
     "ionization_energies": [],
-    "atomic": 118
+    "atomic": 118,
+    "type": "noble-gas"
   },
   {
     "name": "space",
     "atomic": "",
-    "symbol": ""
+    "symbol": "",
+    "type": null
   },
   {
     "name": "Lanthanum",
@@ -2367,7 +2457,8 @@
       4819,
       5940
     ],
-    "atomic": 57
+    "atomic": 57,
+    "type": "lanthanide"
   },
   {
     "name": "Cerium",
@@ -2393,7 +2484,8 @@
       6325,
       7490
     ],
-    "atomic": 58
+    "atomic": 58,
+    "type": "lanthanide"
   },
   {
     "name": "Praseodymium",
@@ -2418,7 +2510,8 @@
       3761,
       5551
     ],
-    "atomic": 59
+    "atomic": 59,
+    "type": "lanthanide"
   },
   {
     "name": "Neodymium",
@@ -2442,7 +2535,8 @@
       2130,
       3900
     ],
-    "atomic": 60
+    "atomic": 60,
+    "type": "lanthanide"
   },
   {
     "name": "Promethium",
@@ -2466,7 +2560,8 @@
       2150,
       3970
     ],
-    "atomic": 61
+    "atomic": 61,
+    "type": "lanthanide"
   },
   {
     "name": "Samarium",
@@ -2490,7 +2585,8 @@
       2260,
       3990
     ],
-    "atomic": 62
+    "atomic": 62,
+    "type": "lanthanide"
   },
   {
     "name": "Europium",
@@ -2514,7 +2610,8 @@
       2404,
       4120
     ],
-    "atomic": 63
+    "atomic": 63,
+    "type": "lanthanide"
   },
   {
     "name": "Gadolinium",
@@ -2538,7 +2635,8 @@
       1990,
       4250
     ],
-    "atomic": 64
+    "atomic": 64,
+    "type": "lanthanide"
   },
   {
     "name": "Terbium",
@@ -2562,7 +2660,8 @@
       2114,
       3839
     ],
-    "atomic": 65
+    "atomic": 65,
+    "type": "lanthanide"
   },
   {
     "name": "Dysprosium",
@@ -2586,7 +2685,8 @@
       2200,
       3990
     ],
-    "atomic": 66
+    "atomic": 66,
+    "type": "lanthanide"
   },
   {
     "name": "Holmium",
@@ -2610,7 +2710,8 @@
       2204,
       4100
     ],
-    "atomic": 67
+    "atomic": 67,
+    "type": "lanthanide"
   },
   {
     "name": "Erbium",
@@ -2634,7 +2735,8 @@
       2194,
       4120
     ],
-    "atomic": 68
+    "atomic": 68,
+    "type": "lanthanide"
   },
   {
     "name": "Thulium",
@@ -2658,7 +2760,8 @@
       2285,
       4120
     ],
-    "atomic": 69
+    "atomic": 69,
+    "type": "lanthanide"
   },
   {
     "name": "Ytterbium",
@@ -2682,7 +2785,8 @@
       2417,
       4203
     ],
-    "atomic": 70
+    "atomic": 70,
+    "type": "lanthanide"
   },
   {
     "name": "Lutetium",
@@ -2707,7 +2811,8 @@
       4370,
       6445
     ],
-    "atomic": 71
+    "atomic": 71,
+    "type": "lanthanide"
   },
   {
     "name": "Actinium",
@@ -2730,7 +2835,8 @@
       499,
       1170
     ],
-    "atomic": 89
+    "atomic": 89,
+    "type": "actinide"
   },
   {
     "name": "Thorium",
@@ -2755,7 +2861,8 @@
       1930,
       2780
     ],
-    "atomic": 90
+    "atomic": 90,
+    "type": "actinide"
   },
   {
     "name": "Protactinium",
@@ -2777,7 +2884,8 @@
     "ionization_energies": [
       568
     ],
-    "atomic": 91
+    "atomic": 91,
+    "type": "actinide"
   },
   {
     "name": "Uranium",
@@ -2800,7 +2908,8 @@
       597.6,
       1420
     ],
-    "atomic": 92
+    "atomic": 92,
+    "type": "actinide"
   },
   {
     "name": "Neptunium",
@@ -2822,7 +2931,8 @@
     "ionization_energies": [
       604.5
     ],
-    "atomic": 93
+    "atomic": 93,
+    "type": "actinide"
   },
   {
     "name": "Plutonium",
@@ -2844,7 +2954,8 @@
     "ionization_energies": [
       584.7
     ],
-    "atomic": 94
+    "atomic": 94,
+    "type": "actinide"
   },
   {
     "name": "Americium",
@@ -2866,7 +2977,8 @@
     "ionization_energies": [
       578
     ],
-    "atomic": 95
+    "atomic": 95,
+    "type": "actinide"
   },
   {
     "name": "Curium",
@@ -2888,7 +3000,8 @@
     "ionization_energies": [
       581
     ],
-    "atomic": 96
+    "atomic": 96,
+    "type": "actinide"
   },
   {
     "name": "Berkelium",
@@ -2910,7 +3023,8 @@
     "ionization_energies": [
       601
     ],
-    "atomic": 97
+    "atomic": 97,
+    "type": "actinide"
   },
   {
     "name": "Californium",
@@ -2932,7 +3046,8 @@
     "ionization_energies": [
       608
     ],
-    "atomic": 98
+    "atomic": 98,
+    "type": "actinide"
   },
   {
     "name": "Einsteinium",
@@ -2954,7 +3069,8 @@
     "ionization_energies": [
       619
     ],
-    "atomic": 99
+    "atomic": 99,
+    "type": "actinide"
   },
   {
     "name": "Fermium",
@@ -2976,7 +3092,8 @@
     "ionization_energies": [
       627
     ],
-    "atomic": 100
+    "atomic": 100,
+    "type": "actinide"
   },
   {
     "name": "Mendelevium",
@@ -2998,7 +3115,8 @@
     "ionization_energies": [
       635
     ],
-    "atomic": 101
+    "atomic": 101,
+    "type": "actinide"
   },
   {
     "name": "Nobelium",
@@ -3020,7 +3138,8 @@
     "ionization_energies": [
       642
     ],
-    "atomic": 102
+    "atomic": 102,
+    "type": "actinide"
   },
   {
     "name": "Lawrencium",
@@ -3042,6 +3161,7 @@
     "ionization_energies": [
       470
     ],
-    "atomic": 103
+    "atomic": 103,
+    "type": "actinide"
   }
 ]
