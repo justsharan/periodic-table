@@ -2157,10 +2157,10 @@
     "type": "transition"
   },
   {
-    "name": "Seaborgium",
+    "name": "Cyborgium",
     "atomic_mass": 269,
     "phase": "solid",
-    "symbol": "Sg",
+    "symbol": "Cy",
     "shells": [
       2,
       8,
