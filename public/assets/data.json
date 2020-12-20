@@ -2417,12 +2417,6 @@
     "type": "noble-gas"
   },
   {
-    "name": "space",
-    "atomic": "",
-    "symbol": "",
-    "type": null
-  },
-  {
     "name": "Lanthanum",
     "atomic_mass": 138.905477,
     "phase": "solid",

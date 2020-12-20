@@ -67,11 +67,6 @@
     grid-column-start: 4;
   }
 
-  #space {
-    grid-column-start: -2;
-    border: none;
-  }
-
   .alkali {
     background-color: rgba(114,47,61,.8);
   }
