@@ -63,12 +63,8 @@
     grid-column-start: 3;
   }
 
-  #empty {
-    border: none;
-  }
-
-  #empty > div, #space > div {
-    color: #1c1c1c;
+  #hafnium, #rutherfordium {
+    grid-column-start: 4;
   }
 
   #space {

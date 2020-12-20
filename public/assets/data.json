@@ -1699,12 +1699,6 @@
     "type": "alkaline-earth"
   },
   {
-    "name": "empty",
-    "atomic": "",
-    "symbol": "",
-    "type": null
-  },
-  {
     "name": "Hafnium",
     "atomic_mass": 178.492,
     "phase": "solid",
@@ -2105,12 +2099,6 @@
     ],
     "atomic": 88,
     "type": "alkaline-earth"
-  },
-  {
-    "name": "empty",
-    "atomic": "",
-    "symbol": "",
-    "type": null
   },
   {
     "name": "Rutherfordium",
