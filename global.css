@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+    line-height: 1.15;
+    background-color: #1c1c1c;
+}
+
