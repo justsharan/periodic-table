@@ -7,3 +7,9 @@ html {
     background-color: #1c1c1c;
 }
 
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-column: center;
+}
