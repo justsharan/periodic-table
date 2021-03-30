@@ -6,7 +6,7 @@
 <main>
 
   {#await data}
-    <p>Loading</p>
+    <br>
   {:then elements}
     {#each elements as el}
       <Element {...el} />
