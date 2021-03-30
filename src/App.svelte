@@ -22,7 +22,6 @@
     grid-template-columns: repeat(17, auto) 1fr;
     width: 90%;
     margin: 0 auto;
-    max-width: 1700px;
   }
 
 </style>
