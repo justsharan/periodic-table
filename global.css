@@ -11,5 +11,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-column: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
 }
