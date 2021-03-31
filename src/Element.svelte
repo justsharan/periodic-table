@@ -23,9 +23,6 @@
     border: 0.5px solid;
     border-collapse: collapse;
     overflow: hidden;
-
-    font-family: -apple-system, Helvetica, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: hsla(0,0%,100%,.55);
   }
 
   #atomic {

@@ -1,6 +1,6 @@
 # ptable-svelte
 
-This is a stupid simple periodic table for the web, written using [Svelte](https://svelte.dev/). It takes advantage of modern features such as flexbox and CSS grid, and offers a minimalist experience with no clutter or unwanted features, perfect as reference material for class assignments and the like. 
+This is a stupid simple periodic table for the web, written using [Svelte](https://svelte.dev/). It offers a minimalist experience with no clutter or unwanted features, perfect as reference material for class assignments and the like. If you like this project, please consider giving it a star!
 
 #### Usage
 
