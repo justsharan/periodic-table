@@ -69,11 +69,11 @@
   }
 
   .alkaline-earth {
-    background-color: rgba(95,70,55,.8);
+    background-color: rgba(90,90,70,.8)
   }
 
   .transition {
-    background-color: rgba(58,70,90,.8);
+    background-color: rgba(50,90,90,.8);
   }
 
   .post-transition {
@@ -97,7 +97,7 @@
   }
 
   .actinide {
-    background-color: rgba(64,37,80,.8);
+    background-color: rgba(104,57,90,.8);
   }
 
 </style>
