@@ -27,7 +27,6 @@
     width: 90%;
     margin: 0 auto;
     font-family: -apple-system, Helvetica, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: hsla(0,0%,100%,.55);
   }
 
   footer {
@@ -39,7 +38,7 @@
 
   a:link, a:visited {
     text-decoration: underline;
-    color: hsla(0,0%,100%,.55);
+    color: inherit;
   }
 
 </style>
