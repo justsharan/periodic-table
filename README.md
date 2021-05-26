@@ -1,14 +1,25 @@
-# ptable-svelte
+# ptable
 
-This is a stupid simple periodic table for the web, written using [Svelte](https://svelte.dev/). It offers a minimalist experience with no clutter or unwanted features, perfect as reference material for class assignments and the like. If you like this project, please consider giving it a star! ⭐️
+This is an elegant periodic table site written using Svelte. It's super minimalist with no clutter or unwanted features, perfect as reference material while doing class assignments and stuff. If you like this project, please consider giving it a star! ⭐️
 
-#### Usage
+### Usage
 
-You can access the public version at [ptable.cyborg.cf](https://ptable.cyborg.cf) or self-host it to make any modifications or view it offline. To build it from source,
+You can access the public version of the site at [ptable.cyborg.cf](https://ptable.cyborg.cf). If you'd like to self-host it:
 
 1. Clone the repository.
-2. Install the dependencies using `npm install` or the package manager of your choice (I prefer pnpm).
-3. Build it with `npm run build`. The static site should end up in the `public` folder.
+```
+$ git clone git@github.com:sinistrecyborg/ptable.git
+$ cd ptable
+```
+2. Install the dependencies and build the site.
+```
+$ yarn install
+$ yarn build
+```
+3. The static site should be in the `public` folder.
 
-If you want to make modifications to it (changing color schemes, etc) I would suggest using `npm run dev` to hot reload changes as you make them.
+If you want to make modifications to it (changing color schemes, etc) I would suggest using `yarn dev` to hot reload changes as you make them.
 
+### License
+ptable is released under the [MIT License](https://github.com/sinistrecyborg/ptable/blob/main/LICENSE).  
+This project uses the [Svelte](https://svelte.dev/) framework, which is released under the MIT License as well.
