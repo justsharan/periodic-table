@@ -4,7 +4,8 @@
 
 html {
   line-height: 1.15;
-  background-color: #1c1c1c;
+  background-color: #cecece;
+  color: hsla(0,0%,0%,.55);
 }
 
 body {
@@ -14,4 +15,11 @@ body {
   justify-content: center;
   margin: 0;
   padding: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #1c1c1c;
+    color: hsla(0,0%,100%,.55);
+  }
 }
