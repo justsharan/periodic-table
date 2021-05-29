@@ -3,14 +3,14 @@
   export let symbol
   export let name
   export let type
-  export let atomic_mass
+  export let atomicMass
 </script>
 
 <section id={name.toLowerCase()} class={type}>
   <div id="atomic">{atomic}</div>
   <div id="symbol">{symbol}</div>
   <div id="name">{name}</div>
-  <div id="mass">{Number.parseFloat(atomic_mass).toPrecision(3)}</div>
+  <div id="mass">{atomicMass}</div>
 </section>
 
 <style>
