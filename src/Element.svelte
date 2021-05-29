@@ -138,5 +138,11 @@
     }
   }
 
+  @media print {
+    .alkali, .alkaline-earth, .transition, .post-transition, .metalloid, .nonmetal, .noble-gas, .lanthanide, .actinide {
+      background-color: #fff;
+    }
+  }
+
 </style>
 

@@ -41,5 +41,11 @@
     color: inherit;
   }
 
+  @media print {
+    footer {
+      visibility: hidden;
+    }
+  }
+
 </style>
 
