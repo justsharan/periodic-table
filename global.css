@@ -23,3 +23,10 @@ body {
     color: hsla(0,0%,100%,.55);
   }
 }
+
+@media print {
+  html {
+    background-color: #fff;
+    color: #000;
+  }
+}
