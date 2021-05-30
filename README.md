@@ -22,7 +22,7 @@ If you want to make modifications to it (changing color schemes, etc) I would su
 
 ### Screenshots
 ![Light](screenshots/light.png)
-![Dark](screenshots/light.png)
+![Dark](screenshots/dark.png)
 
 ### License
 ptable is released under the [MIT License](https://github.com/sinistrecyborg/ptable/blob/main/LICENSE).  
