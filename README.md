@@ -20,6 +20,10 @@ $ yarn build
 
 If you want to make modifications to it (changing color schemes, etc) I would suggest using `yarn dev` to hot reload changes as you make them.
 
+### Screenshots
+![Light](screenshots/light.png)
+![Dark](screenshots/light.png)
+
 ### License
 ptable is released under the [MIT License](https://github.com/sinistrecyborg/ptable/blob/main/LICENSE).  
 This project uses the [Svelte](https://svelte.dev/) framework, which is released under the MIT License as well.
