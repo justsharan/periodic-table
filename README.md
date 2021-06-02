@@ -25,5 +25,5 @@ If you want to make modifications to it (changing color schemes, etc) I would su
 ![Dark](screenshots/dark.png)
 
 ### License
-ptable is released under the [GNU GPL v3 License](./LICENSE).  
+ptable is released under the [GNU GPL v3](./LICENSE) license.  
 This project uses the [Svelte](https://svelte.dev/) framework, which is released under the [MIT License](https://github.com/sveltejs/svelte/blob/master/LICENSE.md).
