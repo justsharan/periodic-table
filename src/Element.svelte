@@ -10,7 +10,7 @@
   <div id="atomic">{atomic}</div>
   <div id="symbol">{symbol}</div>
   <div id="name">{name}</div>
-  <div id="mass">{atomicMass}</div>
+  <div id="mass">{atomicMass.toPrecision(3)}</div>
 </section>
 
 <style>
