@@ -4,11 +4,11 @@ This is an elegant periodic table site written using Svelte. It's super minimali
 
 ### Usage
 
-You can access the public version of the site at [ptable.cyborg.cf](https://ptable.cyborg.cf). If you'd like to self-host it:
+If you'd like to self-host it:
 
 1. Clone the repository.
 ```
-$ git clone git@github.com:sinistrecyborg/ptable.git
+$ git clone https://github.com/justsharan/ptable.git
 $ cd ptable
 ```
 2. Install the dependencies and build the site.
