@@ -15,11 +15,19 @@
 
 <style>
 
+  @media (max-width: 800px) {
+    div#name, div#atomic, div#mass {
+      display: none;
+    }
+  }
+
   section {
     width: 5vw;
     height: 5vw;
     padding: 2px;
+    margin: 2px;
 
+    border-radius: 10px;
     border: 0.5px solid;
     border-collapse: collapse;
     overflow: hidden;
