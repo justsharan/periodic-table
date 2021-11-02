@@ -4,9 +4,14 @@
   export let name
   export let type
   export let atomicMass
+
+  async function copyMass() {
+    await navigator.clipboard.writeText(atomicMass)
+    console.log(`Copied mass of ${name}`)
+  }
 </script>
 
-<section id={name.toLowerCase()} class={type}>
+<section id={name.toLowerCase()} class={type} on:click={copyMass}>
   <div id="atomic">{atomic}</div>
   <div id="symbol">{symbol}</div>
   <div id="name">{name}</div>
@@ -19,10 +24,13 @@
     width: 5vw;
     height: 5vw;
     padding: 2px;
+    margin: 2px;
 
+    border-radius: 10px;
     border: 0.5px solid;
     border-collapse: collapse;
     overflow: hidden;
+    cursor: pointer;
   }
 
   #atomic {
