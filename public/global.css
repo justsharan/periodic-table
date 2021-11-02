@@ -4,7 +4,7 @@
 
 html {
   line-height: 1.15;
-  background-color: #cecece;
+  background-color: #fff;
   color: hsla(0,0%,0%,.55);
 }
 
@@ -19,7 +19,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
   html {
-    background-color: #1c1c1c;
+    background-color: #000;
     color: hsla(0,0%,100%,.55);
   }
 }
@@ -28,5 +28,9 @@ body {
   html {
     background-color: #fff;
     color: #000;
+  }
+
+  @page {
+    orientation: landscape;
   }
 }
