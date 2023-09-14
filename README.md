@@ -1,4 +1,4 @@
-# ptable
+# periodic-table
 
 This is an elegant periodic table site written using Svelte. It's super minimalist with no clutter or unwanted features, perfect as reference material while doing class assignments and stuff. If you like this project, please consider giving it a star! ⭐️
 
