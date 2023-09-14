@@ -1,6 +1,6 @@
 # periodic-table
 
-This is an elegant periodic table site written using Svelte. It's super minimalist with no clutter or unwanted features, perfect as reference material while doing class assignments and stuff. If you like this project, please consider giving it a star! ⭐️
+This is an elegant periodic table site written using Svelte. It's super minimalist with no clutter, perfect as reference material while doing class assignments and stuff. If you like this project, please consider giving it a star! ⭐️
 
 ### Usage
 
@@ -8,7 +8,7 @@ If you'd like to self-host it:
 
 1. Clone the repository.
 ```
-$ git clone https://github.com/justsharan/ptable.git
+$ git clone https://github.com/justsharan/periodic-table.git
 $ cd ptable
 ```
 2. Install the dependencies and build the site.
